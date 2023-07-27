@@ -32,6 +32,7 @@ We welcome contributions from the community. To contribute to this project, plea
 
 ### Code Style
 
+To set people up for success we will be using the google style guides that cover _most_ modern languages - https://google.github.io/styleguide/
 
 ### Submitting a Pull Request
 
